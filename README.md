@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Marc and I like to code _things_, let's talk! 💬
+
 <!--
 **marcjmiller/marcjmiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
